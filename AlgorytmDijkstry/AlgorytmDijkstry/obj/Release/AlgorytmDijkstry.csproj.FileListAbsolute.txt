@@ -1,0 +1,8 @@
+C:\Users\walas\Documents\Visual Studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\bin\Release\AlgorytmDijkstry.exe.config
+C:\Users\walas\Documents\Visual Studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\bin\Release\AlgorytmDijkstry.exe
+C:\Users\walas\Documents\Visual Studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\bin\Release\AlgorytmDijkstry.pdb
+C:\Users\walas\Documents\Visual Studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\obj\Release\AlgorytmDijkstry.Form1.resources
+C:\Users\walas\Documents\Visual Studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\obj\Release\AlgorytmDijkstry.Properties.Resources.resources
+C:\Users\walas\Documents\Visual Studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\obj\Release\AlgorytmDijkstry.csproj.GenerateResource.Cache
+C:\Users\walas\Documents\Visual Studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\obj\Release\AlgorytmDijkstry.exe
+C:\Users\walas\Documents\Visual Studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\obj\Release\AlgorytmDijkstry.pdb

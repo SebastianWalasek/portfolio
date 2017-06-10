@@ -1,0 +1,9 @@
+c:\users\walas\documents\visual studio 2015\Projects\AlgorytmGenetycznyMaxFunkcji\AlgorytmGenetycznyMaxFunkcji\bin\Debug\AlgorytmGenetycznyMaxFunkcji.exe.config
+C:\Users\walas\documents\visual studio 2015\Projects\AlgorytmGenetycznyMaxFunkcji\AlgorytmGenetycznyMaxFunkcji\bin\Debug\AlgorytmGenetycznyMaxFunkcji.exe
+C:\Users\walas\documents\visual studio 2015\Projects\AlgorytmGenetycznyMaxFunkcji\AlgorytmGenetycznyMaxFunkcji\bin\Debug\AlgorytmGenetycznyMaxFunkcji.pdb
+C:\Users\walas\documents\visual studio 2015\Projects\AlgorytmGenetycznyMaxFunkcji\AlgorytmGenetycznyMaxFunkcji\obj\Debug\AlgorytmGenetycznyMaxFunkcji.csprojResolveAssemblyReference.cache
+C:\Users\walas\documents\visual studio 2015\Projects\AlgorytmGenetycznyMaxFunkcji\AlgorytmGenetycznyMaxFunkcji\obj\Debug\AlgorytmGenetycznyMaxFunkcji.Form1.resources
+C:\Users\walas\documents\visual studio 2015\Projects\AlgorytmGenetycznyMaxFunkcji\AlgorytmGenetycznyMaxFunkcji\obj\Debug\AlgorytmGenetycznyMaxFunkcji.Properties.Resources.resources
+C:\Users\walas\documents\visual studio 2015\Projects\AlgorytmGenetycznyMaxFunkcji\AlgorytmGenetycznyMaxFunkcji\obj\Debug\AlgorytmGenetycznyMaxFunkcji.csproj.GenerateResource.Cache
+C:\Users\walas\documents\visual studio 2015\Projects\AlgorytmGenetycznyMaxFunkcji\AlgorytmGenetycznyMaxFunkcji\obj\Debug\AlgorytmGenetycznyMaxFunkcji.exe
+C:\Users\walas\documents\visual studio 2015\Projects\AlgorytmGenetycznyMaxFunkcji\AlgorytmGenetycznyMaxFunkcji\obj\Debug\AlgorytmGenetycznyMaxFunkcji.pdb

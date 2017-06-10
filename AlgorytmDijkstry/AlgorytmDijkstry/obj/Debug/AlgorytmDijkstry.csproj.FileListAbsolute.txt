@@ -1,0 +1,9 @@
+c:\users\walas\documents\visual studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\bin\Debug\AlgorytmDijkstry.exe.config
+c:\users\walas\documents\visual studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\bin\Debug\AlgorytmDijkstry.exe
+c:\users\walas\documents\visual studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\bin\Debug\AlgorytmDijkstry.pdb
+c:\users\walas\documents\visual studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\obj\Debug\AlgorytmDijkstry.csprojResolveAssemblyReference.cache
+c:\users\walas\documents\visual studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\obj\Debug\AlgorytmDijkstry.Properties.Resources.resources
+c:\users\walas\documents\visual studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\obj\Debug\AlgorytmDijkstry.csproj.GenerateResource.Cache
+c:\users\walas\documents\visual studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\obj\Debug\AlgorytmDijkstry.exe
+c:\users\walas\documents\visual studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\obj\Debug\AlgorytmDijkstry.pdb
+C:\Users\walas\Documents\Visual Studio 2015\Projects\AlgorytmDijkstry\AlgorytmDijkstry\obj\Debug\AlgorytmDijkstry.Form1.resources
